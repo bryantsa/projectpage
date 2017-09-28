@@ -1,0 +1,38 @@
+body{
+  font-family:"Geo", "sans-serif";
+  margin: 0px;
+  background-color: Black;
+  color: white;
+}
+
+#menu ul{
+  background-color: grey;
+  height: 50px;
+  border-radius: 5px;
+
+}
+
+#menu li{
+  border-right: 1px solid red;
+  padding: 10px;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+#project-wrapper{
+  padding: 50px 0px;
+
+}
+
+.project{
+  display: inline-block;
+  float: left;
+  margin: 15px;
+  font-family:"Tangerine";
+}
+
+.im{
+  height: 300px;
+  width: 300px;
+}
